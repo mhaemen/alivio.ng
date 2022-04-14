@@ -1,0 +1,54 @@
+body {
+    background-color: darkgray;
+    display: block;
+    margin: 4em 10em;
+    
+}
+img:hover {
+    background-color:darkslategrey;
+    height : 150px;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    height: 1px;
+    border-width: 10px;
+    color: gainsboro;
+    display: block;
+    width: 10%;
+}
+p {
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+strong {
+    font-weight: lighter;
+    font-style: oblique;
+    font-size: large;
+    font-variant: small-caps;     
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    padding-left: 120px;
+}
+li {
+    display: list-item;
+}
+h1 {
+    color: indianred; 
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    text-align-last: center;
+    text-decoration-line: overline underline;
+}
+
+.alivio-photo {
+    background-color: gray;
+    height: 150px;
+}
